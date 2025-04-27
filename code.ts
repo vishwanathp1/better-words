@@ -35,3 +35,4 @@ figma.ui.onmessage =  (msg: {type: string, count: number}) => {
   // keep running, which shows the cancel button at the bottom of the screen.
   figma.closePlugin();
 };
+ 
